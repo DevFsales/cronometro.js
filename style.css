@@ -1,0 +1,44 @@
+
+body {
+   background-color: black;
+   display: flex;
+   justify-content: center;
+}
+button:hover {
+      cursor: pointer;
+
+}
+#container {
+     background-color: #868686;
+     border: solid 2px rgb(138, 135, 135);
+     width: 350px;
+     height: 150px;
+     text-align: center;
+     padding: 15px;
+     margin-top:50px;
+     font-family: 'Courier New', Courier, monospace, sans-serif;
+     border-radius: 5px
+     
+
+
+}
+h1 {
+    color: rgb(240, 213, 213);
+    text-shadow: 2px 2px 2px rgb(54, 0, 0);
+}
+.start-btn{
+     background-color: rgb(12, 182, 12);
+     width: 70px;
+     border-radius: 15px;
+}
+
+.pause-btn {
+    width: 70px;
+    border-radius: 15px;
+}
+.stop-btn {
+      background-color: brown;
+      width: 70px;
+      border-radius: 15px;
+      
+}
